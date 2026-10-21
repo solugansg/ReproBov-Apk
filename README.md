@@ -1,10 +1,10 @@
-# ReproBov Movil - Instalacion & Actualizaciones
+﻿# ReproBov Movil - Instalacion & Actualizaciones
 **Solugan SG - Gestion Reproductiva y Clinica Ganadera**
 
 ---
 
-### Ultima Version Oficial: `V.211026-1410`
-*Fecha de Publicacion:* 21/10/2026 14:12
+### Ultima Version Oficial: `V.211026-1520`
+*Fecha de Publicacion:* 21/10/2026 15:23
 
 ---
 
@@ -12,14 +12,14 @@
 
 Toca el siguiente enlace para descargar el instalador en tu dispositivo:
 
-### [DESCARGAR ReproBov V.211026-1410.apk](https://github.com/solugansg/ReproBov-Apk/raw/main/ReproBov%20V.211026-1410.apk)
+### [DESCARGAR ReproBov V.211026-1520.apk](https://github.com/solugansg/ReproBov-Apk/raw/main/ReproBov%20V.211026-1520.apk)
 
 ---
 
-## Escanear Código QR con tu Tablet o Celular
-Apunta con la cámara de tu dispositivo Android a este código QR para iniciar la descarga automáticamente:
+## Escanear Codigo QR con tu Tablet o Celular
+Apunta con la camara de tu dispositivo Android a este codigo QR para iniciar la descarga automaticamente:
 
-![Código QR Descarga Directa](qr_descarga.png)
+![Codigo QR Descarga Directa](qr_descarga.png)
 
 ---
 
