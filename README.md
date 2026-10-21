@@ -3,8 +3,8 @@
 
 ---
 
-### Ultima Version Oficial: `V.211026-1255`
-*Fecha de Publicacion:* 21/10/2026 13:02
+### Ultima Version Oficial: `V.211026-1345`
+*Fecha de Publicacion:* 21/10/2026 13:49
 
 ---
 
@@ -12,7 +12,7 @@
 
 Toca el siguiente enlace para descargar el instalador en tu dispositivo:
 
-### [DESCARGAR ReproBov V.211026-1255.apk](https://github.com/solugansg/ReproBov-Apk/raw/main/ReproBov%20V.211026-1255.apk)
+### [DESCARGAR ReproBov V.211026-1345.apk](https://github.com/solugansg/ReproBov-Apk/raw/main/ReproBov%20V.211026-1345.apk)
 
 ---
 
