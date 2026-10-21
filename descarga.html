@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ReproBov Móvil - Descargar</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: #020B16;
+      color: #FFFFFF;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .card {
+      background: #041C24;
+      border: 1px solid #0E3842;
+      border-radius: 20px;
+      padding: 28px;
+      max-width: 380px;
+      width: 100%;
+      text-align: center;
+      box-shadow: 0 10px 40px rgba(0, 230, 118, 0.12);
+    }
+    .badge {
+      display: inline-block;
+      background: rgba(0, 230, 118, 0.15);
+      color: #00E676;
+      border: 1px solid rgba(0, 230, 118, 0.3);
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .brand-repro { color: #3B82F6; }
+    .brand-bov { color: #00E676; }
+    p.subtitle {
+      color: #94A3B8;
+      font-size: 13px;
+      margin-bottom: 20px;
+    }
+    .qr-container {
+      background: #FFFFFF;
+      border-radius: 16px;
+      padding: 14px;
+      display: inline-block;
+      margin: 0 auto 20px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    }
+    .qr-container img {
+      display: block;
+      width: 220px;
+      height: 220px;
+      object-fit: contain;
+    }
+    .manual-link {
+      background: #052733;
+      border: 1px solid #0E3842;
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 16px;
+    }
+    .manual-link .label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #64748B;
+      margin-bottom: 4px;
+    }
+    .manual-link .url {
+      font-family: monospace;
+      font-size: 15px;
+      font-weight: 700;
+      color: #00E5FF;
+      user-select: all;
+    }
+    .btn-download {
+      display: block;
+      width: 100%;
+      background: linear-gradient(135deg, #00E676, #00C853);
+      color: #020B16;
+      font-weight: 700;
+      font-size: 15px;
+      padding: 13px 20px;
+      border-radius: 12px;
+      text-decoration: none;
+      transition: transform 0.15s ease, opacity 0.15s ease;
+      box-shadow: 0 4px 15px rgba(0, 230, 118, 0.3);
+    }
+    .btn-download:hover {
+      opacity: 0.95;
+      transform: translateY(-1px);
+    }
+    .footer {
+      margin-top: 16px;
+      font-size: 11px;
+      color: #64748B;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="badge">V.211026-1520 Oficial</div>
+    <h1><span class="brand-repro">Repro</span><span class="brand-bov">Bov</span> Móvil</h1>
+    <p class="subtitle">Apunta con la cámara de tu tablet o celular</p>
+    
+    <div class="qr-container">
+      <img src="qr_descarga.png" alt="QR Descarga Directa">
+    </div>
+
+    <div class="manual-link">
+      <div class="label">O escribe esto en el navegador de la tablet</div>
+      <div class="url">tinyurl.com/2cxxzghc</div>
+    </div>
+
+    <a href="https://raw.githubusercontent.com/solugansg/ReproBov-Apk/main/ReproBov.apk" class="btn-download">
+      Descargar APK Directamente
+    </a>
+
+    <div class="footer">Solugan SG • Gestión Ganadera de Precisión</div>
+  </div>
+</body>
+</html>
