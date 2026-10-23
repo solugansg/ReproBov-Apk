@@ -3,8 +3,8 @@
 
 ---
 
-### Ultima Version Oficial: `V.231026-1741`
-*Fecha de Publicacion:* 23/10/2026 17:44
+### Ultima Version Oficial: `V.231026-1804`
+*Fecha de Publicacion:* 23/10/2026 18:08
 
 ---
 
@@ -12,7 +12,7 @@
 
 Toca cualquiera de los siguientes enlaces para iniciar la descarga:
 - **[Descarga Directa Inmediata (ReproBov.apk)](https://raw.githubusercontent.com/solugansg/ReproBov-Apk/main/ReproBov.apk)**
-- **[Descarga Versionada (ReproBov V.231026-1741.apk)](https://raw.githubusercontent.com/solugansg/ReproBov-Apk/main/ReproBov%20V.231026-1741.apk)**
+- **[Descarga Versionada (ReproBov V.231026-1804.apk)](https://raw.githubusercontent.com/solugansg/ReproBov-Apk/main/ReproBov%20V.231026-1804.apk)**
 
 > **Enlace corto para escribir en el navegador de la tablet:**
 > Enlace: `tinyurl.com/2cxxzghc`
